@@ -30,9 +30,10 @@ Feel free to explore the individual projects linked below, where you’ll find:
 - 🗃️ **SQL Queries** for data extraction  
 - 📜 **R Scripts** for statistical modeling  
 - 📊 **Tableau Dashboards** for visualisation  
-- 📄 **Technical Reports** summarising insights  
+- 📄 **Technical Reports** summarising insights
+  
  
-## 📌 Featured Projects
+# 📌 Featured Projects
 
 ####  *2MARKET* Supermarket Customer Data Analysis 
 🔗 https://github.com/TilaniDW/2Market
