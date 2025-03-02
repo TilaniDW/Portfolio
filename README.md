@@ -28,6 +28,8 @@ Feel free to explore the individual projects linked below, where you’ll find:
  
 # 📌 Featured Projects
 
+Each project README contains detailed documentation of the approach, methodology, and insights gained. Whether you’re here to explore my work, collaborate, or simply learn more about data analytics, I hope you find value in these analyses.
+
 ####  *2MARKET* Supermarket Customer Data Analysis 
 🔗 https://github.com/TilaniDW/2Market
 
@@ -46,10 +48,7 @@ Feel free to explore the individual projects linked below, where you’ll find:
 #### UK Packaging Delivery Feasibility Study (Group Project)
 🔗 https://github.com/TilaniDW/GroupProject
 
-*Evaluating the financial and operational viability of an in-house delivery model using Python, Google API, and Tableau.*
-
-
-> Each project README contains detailed documentation of the approach, methodology, and insights gained. Whether you’re here to explore my work, collaborate, or simply learn more about data analytics, I hope you find value in these analyses!
+> *Evaluating the financial and operational viability of an in-house delivery model using Python, Google API, and Tableau.*
 
 
 💡 If you have any questions or feedback, feel free to reach out! I am always open to collaboration and discussions about data analytics.
