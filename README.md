@@ -6,9 +6,9 @@
 
 Each project in this portfolio demonstrates my ability to:
 
-✅ Extract meaningful insights from data
-✅ Apply various analytical techniques
-✅ Present findings in a clear and actionable way
+- ✅ Extract meaningful insights from data
+- ✅ Apply various analytical techniques
+- ✅ Present findings in a clear and actionable way
 
 > My projects span across multiple industries, including retail, healthcare, gaming, and logistics, reflecting my versatility in working with different data sources and business challenges.
  
